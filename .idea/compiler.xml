@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="foodies-mapper" />
+        <module name="foodies-pojo" />
+        <module name="foodies-common" />
+        <module name="foodies-service" />
+        <module name="foodies-acon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="foodie-dev-api" target="1.8" />
+      <module name="foodies-api" target="1.8" />
+      <module name="foodies-con" target="1.8" />
+      <module name="foodiesapi" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="foodie-dev-api" options="-parameters" />
+      <module name="foodies-acon" options="-parameters" />
+      <module name="foodies-api" options="-parameters" />
+      <module name="foodies-common" options="-parameters" />
+      <module name="foodies-con" options="-parameters" />
+      <module name="foodies-mapper" options="-parameters" />
+      <module name="foodies-pojo" options="-parameters" />
+      <module name="foodies-service" options="-parameters" />
+    </option>
+  </component>
+</project>
