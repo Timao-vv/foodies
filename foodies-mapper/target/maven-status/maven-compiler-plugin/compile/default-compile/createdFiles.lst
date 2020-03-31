@@ -1,0 +1,14 @@
+com/timao/mapper/OrdersMapper.class
+com/timao/mapper/ItemsMapper.class
+com/timao/mapper/CategoryMapper.class
+com/timao/mapper/UsersMapper.class
+com/timao/mapper/OrderItemsMapper.class
+com/timao/mapper/ItemsImgMapper.class
+com/timao/mapper/ItemsCommentsMapper.class
+com/timao/mapper/StuMapper.class
+com/timao/mapper/UserAddressMapper.class
+com/timao/my/mapper/MyMapper.class
+com/timao/mapper/ItemsSpecMapper.class
+com/timao/mapper/OrderStatusMapper.class
+com/timao/mapper/CarouselMapper.class
+com/timao/mapper/ItemsParamMapper.class
