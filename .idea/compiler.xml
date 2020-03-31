@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="foodies-mapper" />
-        <module name="foodies-pojo" />
+        <module name="foodies-acon" />
         <module name="foodies-common" />
         <module name="foodies-service" />
-        <module name="foodies-acon" />
+        <module name="foodies-pojo" />
+        <module name="foodies-mapper" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
